@@ -22,12 +22,21 @@
 
 ## 📸 Screenshots
 
-> _Screenshots go here. You can drag and drop images or paste image URLs._
+### Dashboard
 
-- ![Dashboard View](screenshots/dashboard.png)
-- ![Alerts Only View](screenshots/alerts.png)
-- ![Log Chart](screenshots/log-chart.png)
-- ![Admin Panel](screenshots/admin.png)
+- ![image](https://github.com/user-attachments/assets/55337ab7-690d-41ab-8667-12503aea1037)
+
+
+### Alerts Page
+
+
+- ![image](https://github.com/user-attachments/assets/e924f12a-efd7-45fe-a740-b4e054fca29d)
+
+
+### Log Chart
+
+
+- ![image](https://github.com/user-attachments/assets/5d97cd3d-77e7-4b04-8edc-18363fb9015f)
 
 ---
 
@@ -58,11 +67,3 @@
 - Admin access is protected; only `/admin` is public.
 
 ---
-
-## 🚦 Setup Instructions
-
-1. **Clone the repo**
-
-```bash
-git clone https://github.com/SiddhantKodolkar/ObserveLite.git
-cd ObserveLite
